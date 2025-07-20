@@ -130,4 +130,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-For questions or feedback, please contact [your.email@example.com].
+For questions or feedback, please contact [rahulrdhamdhere@gmail.com].
